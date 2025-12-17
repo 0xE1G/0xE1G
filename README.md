@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/0xE1G?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FStockholm)
+
 ### 🎓 Education
 [![](https://img.shields.io/badge/Bachelor's-Electrical%20Engineering-0078D7?style=flat&logo=none)](#) [![](https://img.shields.io/badge/Master's-Autonomous%20Systems%20%26%20AI-6F42C1?style=flat&logo=none)](#)
 
@@ -98,8 +100,6 @@
 
 <img src="https://github-readme-bento.vercel.app/stats/0xE1G?theme=dark" style="text-decoration:none;" width="665"/>
 
-
-![Metrics2](https://metrics.lecoq.io/0xE1G?template=classic&isocalendar=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FStockholm)
 
 
 
