@@ -88,11 +88,19 @@
 [![](https://img.shields.io/badge/-Raspberry_Pi-000?logo=raspberrypi)](#)
 
 
-### GitHub Contribution Chart
+### GitHub Stats
+
+
 <a href="https://github.com/0xE1G">
     <img src="https://ghchart.rshah.org/0xE1G" alt="0xE1G's GitHub Contribution Chart">
 </a>
 
-### Github Stats
-<img src="https://github-readme-bento.vercel.app/stats/0xE1G?theme=dark" style="text-decoration:none;" width="650"/>
+
+<img src="https://github-readme-bento.vercel.app/stats/0xE1G?theme=dark" style="text-decoration:none;" width="665"/>
+
+
+![Metrics2](https://metrics.lecoq.io/0xE1G?template=classic&isocalendar=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FStockholm)
+
+
+
 
