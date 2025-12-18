@@ -1,17 +1,17 @@
 ![Banner](./profile.png)
-
-## `⬥ 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗`
+---
+### `⬥ 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗`
 [![](https://img.shields.io/badge/Bachelor's-Electrical%20Engineering-0078D7?style=for-the-badge&logo=none)](#) [![](https://img.shields.io/badge/Master's-Autonomous%20Systems%20%26%20AI-6F42C1?style=for-the-badge&logo=none)](#)
 
 
 
-## `⬥ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜`
+### `⬥ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜`
 [![](https://img.shields.io/badge/🚗%20Autonomous%20Driving-1E1E1E?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🤖%20Robotics-1E1E1E?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🚀%20Aerospace-1E1E1E?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/💻%20Consumer%20Electronics-1E1E1E?style=for-the-badge)](#)
 
-## `⬥ 𝙰𝚛𝚎𝚊𝚜`
+### `⬥ 𝙰𝚛𝚎𝚊𝚜`
 
 [![](https://img.shields.io/badge/🛰️%20Perception%20%26%20Sensing-1E1E1E?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🗺️%20Planning%20%26%20Decision%20Making-1E1E1E?style=for-the-badge)](#)
@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/💡%20TinyML-1E1E1E?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🧠%20AI-1E1E1E?style=for-the-badge)](#)
 
-## `⬥ 𝚂𝚔𝚒𝚕𝚕𝚜`
+### `⬥ 𝚂𝚔𝚒𝚕𝚕𝚜`
 
 
 |     |         |
@@ -42,7 +42,7 @@
 | **.𝚘𝚜** | ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows) 
 
 
-## `⬥ 𝙶𝚒𝚝𝚑𝚞𝚋`
+### `⬥ 𝙶𝚒𝚝𝚑𝚞𝚋`
 <a href="https://github.com/0xE1G">
     <img src="https://ghchart.rshah.org/0xE1G" alt="0xE1G's GitHub Contribution Chart" width="1500">
 </a>
