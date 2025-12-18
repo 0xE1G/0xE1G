@@ -47,11 +47,11 @@
     <img src="https://ghchart.rshah.org/0xE1G" alt="0xE1G's GitHub Contribution Chart" width="1500">
 </a>
 
-
+<!--
 ![Metrics](https://metrics.lecoq.io/0xE1G?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FStockholm)
 
 
-
+-->
 
 
 <!-- <img src="https://github-readme-bento.vercel.app/stats/0xE1G?theme=dark" style="text-decoration:none;" width="665"/> -->
