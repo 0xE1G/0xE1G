@@ -1,4 +1,4 @@
-![Banner](./profile.png)
+![Banner](./banner_2.jpeg)
 ---
 ### `⬥ 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗`
 [![](https://img.shields.io/badge/Bachelor's-Electrical%20Engineering-0078D7?style=for-the-badge&logo=none)](#) [![](https://img.shields.io/badge/Master's-Autonomous%20Systems%20%26%20AI-6F42C1?style=for-the-badge&logo=none)](#)
